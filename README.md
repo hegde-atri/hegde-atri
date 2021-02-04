@@ -1,5 +1,4 @@
-![](https://github.com/hegde-atri/hegde-atri/blob/main/original.gif)
-### Welcome to this wonderfully managed github page!
+![](https://github.com/hegde-atri/hegde-atri/blob/main/ezgif.com-gif-maker.gif)
 
 
 
