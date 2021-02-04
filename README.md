@@ -1,4 +1,5 @@
-![](https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/source.gif)
+![](https://github.com/hegde-atri/hegde-atri/blob/main/original.gif)
+### Welcome to this wonderfully managed github page!
 
 
 
