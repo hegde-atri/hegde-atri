@@ -9,6 +9,7 @@
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#183](https://github.com/Monokai/monokai-pro-vscode/issues/183) in [Monokai/monokai-pro-vscode](https://github.com/Monokai/monokai-pro-vscode)
 <!--END_SECTION:activity-->
 <details>
   <summary>:zap: Github Stats</summary>
