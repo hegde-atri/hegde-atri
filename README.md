@@ -86,6 +86,10 @@ JavaScript               1 repo              █░░░░░░░░░░�
  Last Updated on 30/06/2021
 <!--END_SECTION:waka-->
 
+### Listening To
+[![Spotify](https://hegde-atri.vercel.app/api/spotify)](https://open.spotify.com/user/hegde_atri)
+
+
 <details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="hegde-atri's GitHub Stats" src="https://github-readme-stats-hegde-atri.vercel.app/api?username=hegde-atri&show_icons=true&hide_border=true" />
