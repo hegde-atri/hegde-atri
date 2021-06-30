@@ -97,6 +97,6 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 <details>
   <summary>:zap: Github Stats</summary>
-  <img align="left" alt="hegde-atri's GitHub Stats" src="https://github-readme-stats-hegde-atri.vercel.app/api?username=hegde-atri&show_icons=true&hide_border=true" />
+  <img align="left" alt="hegde-atri's GitHub Stats" src="https://github-readme-stats-hegde-atri.vercel.app/api?username=hegde-atri&show_icons=true&hide_border=true&theme=dracula" />
 </details>
 
