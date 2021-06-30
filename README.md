@@ -87,7 +87,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Listening To
-[![Spotify](https://hegde-atri.vercel.app/api/spotify)](https://open.spotify.com/user/hegde_atri)
+[![Spotify](https://novatorem-hegde-atri.vercel.app/api/spotify)](https://open.spotify.com/user/hegde_atri)
 
 
 <details>
