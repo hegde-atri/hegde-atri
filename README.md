@@ -8,6 +8,8 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 <details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="hegde-atri's GitHub Stats" src="https://github-readme-stats-hegde-atri.vercel.app/api?username=hegde-atri&show_icons=true&hide_border=true" />
