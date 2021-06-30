@@ -5,6 +5,7 @@
 [![Mail Badge](https://img.shields.io/badge/-hegde_atri-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dev.hegdeatri@gmail.com)
 
 ## Coding Stats
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
