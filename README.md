@@ -26,10 +26,11 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     4 mins              ████████████████████████░   97.92% 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+BankingApplication-fe    4 mins              █████████████████████████   100.0%
 
 ```
 
@@ -46,7 +47,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2021
+ Last Updated on 13/09/2021
 <!--END_SECTION:waka-->
 
 ### Listening To 🎧
