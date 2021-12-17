@@ -9,16 +9,16 @@
 ## Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2018%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-846%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-845%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    90 commits     █████░░░░░░░░░░░░░░░░░░░░   20.32% 
-🌆 Daytime    108 commits    ██████░░░░░░░░░░░░░░░░░░░   24.38% 
-🌃 Evening    239 commits    █████████████░░░░░░░░░░░░   53.95% 
+🌞 Morning    90 commits     █████░░░░░░░░░░░░░░░░░░░░   20.18% 
+🌆 Daytime    111 commits    ██████░░░░░░░░░░░░░░░░░░░   24.89% 
+🌃 Evening    239 commits    █████████████░░░░░░░░░░░░   53.59% 
 🌙 Night      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.35%
 
 ```
@@ -56,7 +56,7 @@ GLSL                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/12/2021
+ Last Updated on 17/12/2021
 <!--END_SECTION:waka-->
 
 ### Listening To 🎧
