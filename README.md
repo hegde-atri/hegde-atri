@@ -18,20 +18,8 @@ Wakatime Stats
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2030%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-872%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-874%20Thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 14 Contributions in the Year 2022
- > 
-> 📦 114.1 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 35 Public Repositories 
- > 
-> 🔑 3 Private Repositories  
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
