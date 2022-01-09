@@ -51,7 +51,11 @@ BankingApplication-be    3 mins              ░░░░░░░░░░░�
 ### Listening To 🎧
 [![Spotify](https://novatorem-hegde-atri.vercel.app/api/spotify)](https://open.spotify.com/user/hegde_atri)
 
-### :zap: Github Stats
+### :chart_with_upwards_trend: Github Stats
+![](https://github.com/hegde-atri/cuddly-succotash/blob/master/generated/overview.svg?raw=true)
+![](https://github.com/hegde-atri/cuddly-succotash/blob/master/generated/languages.svg?raw=true)
+
+### :zap: More Github Stats
   <img align="left" alt="hegde-atri's GitHub Stats" src="https://github-readme-stats-hegde-atri.vercel.app/api?username=hegde-atri&show_icons=true&hide_border=true&theme=dracula&count_private=true" />
 
 <h3 align="left">Languages and Tools:</h3>
