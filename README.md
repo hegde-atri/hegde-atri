@@ -1,12 +1,6 @@
-<div align="center>
-
-![](https://github.com/hegde-atri/hegde-atri/blob/main/ezgif.com-gif-maker.gif)
-
-</div>
-
-<h1 align="center">
-My code mess
-</h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:6600ff&height=300&section=header&text=Welcome%20to%20my%20profile&fontSize=50&animation=fadeIn" />
+</p>
 
 <h2 align="center">
 📫 Reach me
@@ -90,6 +84,6 @@ Listening To 🎧
 
 <p align="center">
 
-README page generated using <a href="https://github.com/jstrieb/github-stats">github-stats</a>, <a href="https://github.com/anmol098/waka-readme-stats">waka-readme-stats</a>, <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>
+README page generated using <a href="https://github.com/jstrieb/github-stats">github-stats</a>, <a href="https://github.com/anmol098/waka-readme-stats">waka-readme-stats</a>, <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>, <a href="https://github.com/kyechan99/capsule-render">capsule-render</a>
 
 </p>
