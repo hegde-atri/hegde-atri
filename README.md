@@ -75,7 +75,7 @@ Listening To 🎧
 ### :zap: More Github Stats
 
 
-<img align="center" alt="hegde-atri's GitHub Stats" src="https://github-readme-stats-hegde-atri.vercel.app/api?username=hegde-atri&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
+<img align="center" alt="hegde-atri's GitHub Stats" src="https://github-readme-stats-hegde-atri.vercel.app/api?username=hegde-atri&show_icons=true&hide_border=true&theme=radical&count_private=true" />
 
 <h3 align="center">Languages and Tools:</h3>
 
