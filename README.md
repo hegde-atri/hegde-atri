@@ -16,7 +16,7 @@ Wakatime Stats
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2044%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-874%20Thousand%20lines%20of%20code-blue)
 
@@ -40,7 +40,7 @@ BankingApplication-be    3 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 10/01/2022
+ Last Updated on 11/01/2022
 <!--END_SECTION:waka-->
 
 <h2 align="center">
