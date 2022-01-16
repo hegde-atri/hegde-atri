@@ -49,8 +49,8 @@ Listening To 🎧
 </h2>
 <p align="center">
 
-![](https://github.com/hegde-atri/cuddly-succotash/blob/master/generated/overview.svg?raw=true)
-![](https://github.com/hegde-atri/cuddly-succotash/blob/master/generated/languages.svg?raw=true)
+![](https://github.com/hegde-atri/github-stats/blob/master/generated/overview.svg?raw=true)
+![](https://github.com/hegde-atri/github-stats/blob/master/generated/languages.svg?raw=true)
 
 </p>
 
