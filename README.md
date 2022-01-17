@@ -16,7 +16,7 @@ Wakatime Stats
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-148%20hrs%204%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-874%20Thousand%20lines%20of%20code-blue)
 
@@ -29,13 +29,12 @@ TypeScript               50 mins             ██████████░�
 SCSS                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.96%
 
 🐱‍💻 Projects: 
-BankingApplication-fe    1 hr 59 mins        █████████████████████████   100.0% 
-portfolio-site           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+BankingApplication-fe    1 hr 59 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 16/01/2022
+ Last Updated on 17/01/2022
 <!--END_SECTION:waka-->
 
 <h2 align="center">
