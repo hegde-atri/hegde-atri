@@ -9,7 +9,9 @@
 <div align="center">
 
 [![Mail Badge](https://img.shields.io/badge/-dev.hegdeatri@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dev.hegdeatri@gmail.com)
-
+ <br>
+ <a href="https://gitlab.com/hegde-atri"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></a>
+ 
 <h2 align="center">
 Wakatime Stats
 </h2>
