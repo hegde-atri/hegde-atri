@@ -18,8 +18,6 @@ Wakatime Stats
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2010%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-875%20Thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -40,7 +38,7 @@ BankingApplication-be    0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 20/01/2022 18:49:12 UTC
+ Last Updated on 21/01/2022 18:48:54 UTC
 <!--END_SECTION:waka-->
 
 <h2 align="center">
