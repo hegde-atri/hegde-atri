@@ -66,6 +66,7 @@ Listening To 🎧
 
 
 <img align="center" alt="hegde-atri's GitHub Stats" src="https://github-readme-stats-hegde-atri.vercel.app/api?username=hegde-atri&show_icons=true&hide_border=true&theme=radical&count_private=true" />
+<img align="center" alt="github stats" src="https://github-readme-streak-stats.herokuapp.com/?user=hegde-atri&count_private=true&theme=radical" />
 
 <h3 align="center">Languages and Tools:</h3>
 
