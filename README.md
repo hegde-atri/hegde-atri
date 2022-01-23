@@ -18,8 +18,6 @@ Wakatime Stats
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2042%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-875%20Thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -42,7 +40,7 @@ flutter                  4 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 22/01/2022 18:46:43 UTC
+ Last Updated on 23/01/2022 18:47:50 UTC
 <!--END_SECTION:waka-->
 
 <h2 align="center">
