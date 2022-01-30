@@ -16,7 +16,7 @@
 Wakatime Stats
 </h2>
 
-<h5 align="left">
+<h4 align="left">
  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs%2015%20mins-blue)
@@ -44,7 +44,7 @@ Unknown Project          0 secs              ░░░░░░░░░░░�
 
  Last Updated on 30/01/2022 18:47:39 UTC
 <!--END_SECTION:waka-->
- </h5>
+ </h4>
 
 <h2 align="center">
 Listening To 🎧
