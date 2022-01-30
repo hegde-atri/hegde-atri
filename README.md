@@ -19,7 +19,7 @@ Wakatime Stats
 <h5 align="left">
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-157%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs%2015%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-882%20Thousand%20lines%20of%20code-blue)
 
@@ -27,7 +27,7 @@ Wakatime Stats
 
 ```text
 💬 Programming Languages: 
- HTML                     1 hr 13 mins        ███████░░░░░░░░░░░░░░░░░░   30.73% 
+HTML                     1 hr 13 mins        ███████░░░░░░░░░░░░░░░░░░   30.73% 
 C#                       1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   26.88% 
 TypeScript               1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   26.5% 
 SCSS                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.09% 
@@ -42,7 +42,7 @@ Unknown Project          0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 29/01/2022 18:55:54 UTC
+ Last Updated on 30/01/2022 18:47:39 UTC
 <!--END_SECTION:waka-->
  </h5>
 
