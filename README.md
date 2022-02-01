@@ -70,6 +70,10 @@ Listening To <a href="https://open.spotify.com/user/hegde_atri" target="_blank">
 
 <img align="center" alt="hegde-atri's GitHub Stats" src="https://github-readme-stats-hegde-atri.vercel.app/api?username=hegde-atri&show_icons=true&hide_border=true&theme=radical&count_private=true" />
 <img align="center" alt="github stats" src="https://github-readme-streak-stats.herokuapp.com/?user=hegde-atri&count_private=true&theme=radical" />
+ 
+<h3 align="center">Currently learning:</h3>
+<p align="center">
+<a href="https://www.rust-lang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/> </a> <a href="https://archlinux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="arch linux" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="BASH" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <h3 align="center">Languages and Tools:</h3>
 
