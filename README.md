@@ -46,13 +46,14 @@ BankingApplication-be    1 min               ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
  </h4>
 
+ <!--
 <h2 align="center">
  
 Listening To <a href="https://open.spotify.com/user/hegde_atri" target="_blank"> <img src="https://www.vectorlogo.zone/logos/spotify/spotify-tile.svg" alt="spotify" width="25" height="25"/> </a>
 </h2>
 
 [![Spotify](https://novatorem-hegde-atri.vercel.app/api/spotify)](https://open.spotify.com/user/hegde_atri)
-
+-->
 <h2 align="center">
 :chart_with_upwards_trend: Github Stats
 </h2>
