@@ -13,16 +13,18 @@
  <a href="https://gitlab.com/hegde-atri" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></a>
  <br>
  <a href="https://www.linkedin.com/in/atri-hegde-8a37a5215/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a>
-<h2 align="center">
+
+<!-- <h2 align="center">
 Wakatime Stats
 </h2>
 
 <h4 align="left">
  
  [![wakatime](https://wakatime.com/badge/user/ee5b4fd5-a7ea-4b3c-b25e-710e5842ef79.svg)](https://wakatime.com/@ee5b4fd5-a7ea-4b3c-b25e-710e5842ef79)
+ -->
  
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-886%20Thousand%20lines%20of%20code-blue)
+<!--![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-886%20Thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -43,7 +45,7 @@ BankingApplication-be    0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 14/02/2022 18:47:15 UTC
+ Last Updated on 14/02/2022 18:47:15 UTC -->
 <!--END_SECTION:waka-->
  </h4>
 
