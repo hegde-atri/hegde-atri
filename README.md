@@ -83,8 +83,8 @@ Listening To <a href="https://open.spotify.com/user/hegde_atri" target="_blank">
 
 <p align="center">
 
-README page generated using <a href="https://github.com/jstrieb/github-stats">github-stats</a>, <a href="https://github.com/kyechan99/capsule-render">capsule-render</a>
+README page generated using <a href="https://github.com/jstrieb/github-stats">github-stats</a>
  
- <!--, <a href="https://github.com/anmol098/waka-readme-stats">waka-readme-stats</a>, <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> -->
+ <!--, <a href="https://github.com/anmol098/waka-readme-stats">waka-readme-stats</a>, <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>, <a href="https://github.com/kyechan99/capsule-render">capsule-render</a> -->
 
 </p>
