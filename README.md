@@ -10,6 +10,8 @@
  <a href="https://www.linkedin.com/in/atri-hegde-8a37a5215/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a>
  <br>
  <p>More about me can be found <a href="https://hegdeatri.com/about" target="_blank" style="color= codewhite;">here</a></p>
+ <br>
+ <p>I also some of my projects on gitlab!</p>
  
 <!--  <h2 align="center">
 :chart_with_upwards_trend: Github Stats
