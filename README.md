@@ -84,10 +84,35 @@ Listening To <a href="https://open.spotify.com/user/hegde_atri" target="_blank">
 <p align="center"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </a> <a href="https://git-scm.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://nodejs.org/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a></p> 
 -->
 
-<p align="center">
+<i align="center">
 
-README page generated using <a href="https://github.com/jstrieb/github-stats">github-stats</a>
+README page generated using <a href="https://github.com/jstrieb/github-stats">github-stats</a>, <a href="https://github.com/kyechan99/capsule-render">capsule-render</a>
  
- <!--, <a href="https://github.com/anmol098/waka-readme-stats">waka-readme-stats</a>, <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>, <a href="https://github.com/kyechan99/capsule-render">capsule-render</a> -->
+ <!--, <a href="https://github.com/anmol098/waka-readme-stats">waka-readme-stats</a>, <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> -->
 
-</p>
+</i>
+
+<h2 align="center">Pinned Repositories</h2>
+
+<ul>
+<li><a href="https://github.com/hegde-atri/BankingApplication-fe">Banking Application fe</a> - This is the frontend website work for a Banking Appliation developed using Angular and styled with the Angular Material library. Uses CRUD operations, reactive forms, authentication of user using Azure B2C and also some fancy graphs for the "customers".</li>
+ <li><a href="https://github.com/hegde-atri/BankingApplication-be">Banking Application be</a> - This is the backend project that has the API project using ASP.NET and also Database management using EF Core. This project shows clean code and also modular design for easy modifications if needed.</li>
+
+ 
+  <li><a href="https://github.com/hegde-atri/FileOrganizer"> </a></li>
+  <li><a href="https://github.com/hegde-atri/pythonProjects"> </a></li>
+  <li><a href="https://github.com/hegde-atri/meetingBooking"> </a></li>
+  <li><a href="https://github.com/hegde-atri/globo_fitness"> </a></li>
+  <li><a href="https://github.com/hegde-atri/DutchTreat"> </a></li>
+  <li><a href="https://github.com/hegde-atri/CoreCodeCampAPI"> </a></li>
+ <li><a href="https://github.com/hegde-atri/sudokuSolver"> </a></li>
+ <li><a href="https://github.com/hegde-atri/piCalculator"> </a></li>
+ <li><a href="https://github.com/hegde-atri/APM"> </a></li>
+  <li><a href="https://github.com/hegde-atri/SamuraiApp"> </a></li>
+  <li><a href="https://github.com/hegde-atri/my-rust-bible"> </a></li>
+  <li><a href="https://github.com/hegde-atri/archlinux-help-sheet"> </a></li>
+
+ <li><a href="https://github.com/hegde-atri/arch-install">Arch install</a> - This is a script that allows me to get my arch configuration installed on any target EFI system. It is not beginner friendly and not recommended unless you know what you are doing!
+</ul>
+
+<!--  <li><a href=""> </a></li> -->
