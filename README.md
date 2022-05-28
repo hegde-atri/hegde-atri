@@ -91,28 +91,46 @@ README page generated using <a href="https://github.com/jstrieb/github-stats">gi
  <!--, <a href="https://github.com/anmol098/waka-readme-stats">waka-readme-stats</a>, <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> -->
 
 </i>
+</div>
 
-<h2 align="center">Pinned Repositories</h2>
+<h2 align="center">Main repositories</h2>
 
 <ul>
 <li><a href="https://github.com/hegde-atri/BankingApplication-fe">Banking Application fe</a> - This is the frontend website work for a Banking Appliation developed using Angular and styled with the Angular Material library. Uses CRUD operations, reactive forms, authentication of user using Azure B2C and also some fancy graphs for the "customers".</li>
+
  <li><a href="https://github.com/hegde-atri/BankingApplication-be">Banking Application be</a> - This is the backend project that has the API project using ASP.NET and also Database management using EF Core. This project shows clean code and also modular design for easy modifications if needed.</li>
 
+ <li><a href="https://github.com/hegde-atri/FileOrganizer">File Organizer</a> - This is a C# application using Avalonia UI. This application can be used to sort files in a given directory according to their file extension.</li>
+
+<li><a href="https://github.com/hegde-atri/meetingBooking">Meeting Booking</a> - JavaFx application that allows for meeting booking, adding refreshments, and automatically scheduling cleaners.</li>
  
-  <li><a href="https://github.com/hegde-atri/FileOrganizer"> </a></li>
-  <li><a href="https://github.com/hegde-atri/pythonProjects"> </a></li>
-  <li><a href="https://github.com/hegde-atri/meetingBooking"> </a></li>
-  <li><a href="https://github.com/hegde-atri/globo_fitness"> </a></li>
-  <li><a href="https://github.com/hegde-atri/DutchTreat"> </a></li>
-  <li><a href="https://github.com/hegde-atri/CoreCodeCampAPI"> </a></li>
- <li><a href="https://github.com/hegde-atri/sudokuSolver"> </a></li>
- <li><a href="https://github.com/hegde-atri/piCalculator"> </a></li>
- <li><a href="https://github.com/hegde-atri/APM"> </a></li>
-  <li><a href="https://github.com/hegde-atri/SamuraiApp"> </a></li>
-  <li><a href="https://github.com/hegde-atri/my-rust-bible"> </a></li>
-  <li><a href="https://github.com/hegde-atri/archlinux-help-sheet"> </a></li>
+ <li><a href="https://github.com/hegde-atri/hegdeatri-dot-com">hegdeatri-dot-com</a> - Repository that houses the code behind <a href="https://hegdeatri.com">https://hegdeatri.com</a></li>
+  
+  <li><a href="https://github.com/hegde-atri/pythonProjects">Python projects</a> - This repository contains many small programs that I used to understand concepts in Computer Science.</li>
+  
+  <li><a href="https://github.com/hegde-atri/globo_fitness">Globo Fitness</a> - An simple application to learn flutter.</li>
+
+  <li><a href="https://github.com/hegde-atri/DutchTreat">Dutch Treat</a> - A full stack ASP.NET web application. Used to learn basics of ASP.NET.</li>
+
+  <li><a href="https://github.com/hegde-atri/CoreCodeCampAPI">CoreCodeCamp API</a> - Learning to develop API's and use features such as mapping.</li>
+
+ <li><a href="https://github.com/hegde-atri/sudokuSolver">Sudoku solver</a> -  A simple python application that solves soduku puzzles using a recursive algorithm.</li>
+
+ <!-- <li><a href="https://github.com/hegde-atri/piCalculator"> </a></li> -->
+
+ <li><a href="https://github.com/hegde-atri/APM">APM</a> - First application built using Angular.</li>
+
+  <li><a href="https://github.com/hegde-atri/SamuraiApp">Samurai App</a> - Built while learning EF Core.</li>
+  <!-- <li><a href="https://github.com/hegde-atri/my-rust-bible">Rust bible</a></li> -->
+  <li><a href="https://github.com/hegde-atri/archlinux-help-sheet">Archlinux Help Sheet</a> - A wiki with a lot of things I learned by trial and error whilst using arch linux. Aimed to help beginners to Arch linux.</li>
+
 
  <li><a href="https://github.com/hegde-atri/arch-install">Arch install</a> - This is a script that allows me to get my arch configuration installed on any target EFI system. It is not beginner friendly and not recommended unless you know what you are doing!
+ 
+ <i>My dotfiles and other configs used are available on my <a href="https://gitlab.com/linux_things">gitlab</a>.
+ </li>
 </ul>
+
+
 
 <!--  <li><a href=""> </a></li> -->
