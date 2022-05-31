@@ -10,7 +10,6 @@
  <a href="https://www.linkedin.com/in/atri-hegde-8a37a5215/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a>
  <br>
  <p>More about me can be found <a href="https://hegdeatri.com/about">here</a>.</p>
- <p>My dotfiles are on <a href="https://gitlab.com/linux_things">gitlab</a>!</p>
  
 <!--  <h2 align="center">
 :chart_with_upwards_trend: Github Stats
@@ -125,10 +124,8 @@ README page generated using <a href="https://github.com/jstrieb/github-stats">gi
   <li><a href="https://github.com/hegde-atri/archlinux-help-sheet">Archlinux Help Sheet</a> - A wiki with a lot of things I learned by trial and error whilst using arch linux. Aimed to help beginners to Arch linux.</li>
 
 
- <li><a href="https://github.com/hegde-atri/arch-install">Arch install</a> - This is a script that allows me to get my arch configuration installed on any target EFI system. It is not beginner friendly and not recommended unless you know what you are doing!
- 
- <i>My dotfiles and other configs used are available on my <a href="https://gitlab.com/linux_things">gitlab</a>.
- </li>
+ <li><a href="https://github.com/hegde-atri/arch-install">Arch install</a> - This is a script that allows me to get my arch configuration installed on any target EFI system. It is not beginner friendly and not recommended unless you know what you are doing!</li>
+ <li><a href="https://github.com/hegde-atri/.dotfiles">.dotfiles</a> - A repo to manage my dotfiles using stow.<\li>
 </ul>
 
 
