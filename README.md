@@ -125,7 +125,7 @@ README page generated using <a href="https://github.com/jstrieb/github-stats">gi
 
 
  <li><a href="https://github.com/hegde-atri/arch-install">Arch install</a> - This is a script that allows me to get my arch configuration installed on any target EFI system. It is not beginner friendly and not recommended unless you know what you are doing!</li>
- <li><a href="https://github.com/hegde-atri/.dotfiles">.dotfiles</a> - A repo to manage my dotfiles using stow.<\li>
+ <li><a href="https://github.com/hegde-atri/.dotfiles">.dotfiles</a> - A repo to manage my dotfiles using stow.</li>
 </ul>
 
 
