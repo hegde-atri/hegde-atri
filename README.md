@@ -103,6 +103,8 @@ README page generated using <a href="https://github.com/jstrieb/github-stats">gi
 
 <li><a href="https://github.com/hegde-atri/meetingBooking">Meeting Booking</a> - JavaFx application that allows for meeting booking, adding refreshments, and automatically scheduling cleaners.</li>
  
+ <li><a href="https://github.com/hegde-atri/JavaPractice">Java Practice</a> - This is a repository with solutions to leetcodes, edabit and other problems, coded in java.</li>
+ 
  <li><a href="https://github.com/hegde-atri/hegdeatri-dot-com">hegdeatri-dot-com</a> - Repository that houses the code behind <a href="https://hegdeatri.com">https://hegdeatri.com</a></li>
   
   <li><a href="https://github.com/hegde-atri/pythonProjects">Python projects</a> - This repository contains many small programs that I used to understand concepts in Computer Science.</li>
