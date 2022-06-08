@@ -10,6 +10,8 @@
  <a href="https://www.linkedin.com/in/atri-hegde-8a37a5215/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a>
  <br>
  <p>More about me can be found <a href="https://hegdeatri.com/about">here</a>.</p>
+ <br>
+ <p>I host most of my servers on Vultr, try it out today with free $100 credit <a href="https://www.vultr.com/?ref=9153348-8H">here</a>!</p>
  
 <!--  <h2 align="center">
 :chart_with_upwards_trend: Github Stats
