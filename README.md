@@ -11,7 +11,7 @@
  <br>
  <p>More about me can be found <a href="https://hegdeatri.com/about">here</a>.</p>
  <br>
- <p>I host most of my servers on Vultr, try it out today with free $100 credit <a href="https://www.vultr.com/?ref=9153348-8H">here</a>!</p>
+ <p>I host my servers on <a href="https://www.vultr.com/?ref=9153348-8H">Vultr</a> and <a href="https://www.linode.com/lp/refer/?r=e380458e650a2522929a5430c59e3236ba09cd6b">Linode</a>, try it out today with free $100 credit on either of them!</p>
  
 <!--  <h2 align="center">
 :chart_with_upwards_trend: Github Stats
