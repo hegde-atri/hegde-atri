@@ -100,6 +100,8 @@ README page generated using <a href="https://github.com/jstrieb/github-stats">gi
 <li><a href="https://github.com/hegde-atri/BankingApplication-fe">Banking Application fe</a> - This is the frontend website work for a Banking Appliation developed using Angular and styled with the Angular Material library. Uses CRUD operations, reactive forms, authentication of user using Azure B2C and also some fancy graphs for the "customers".</li>
 
  <li><a href="https://github.com/hegde-atri/BankingApplication-be">Banking Application be</a> - This is the backend project that has the API project using ASP.NET and also Database management using EF Core. This project shows clean code and also modular design for easy modifications if needed.</li>
+ 
+ <li><a href="https://github.com/hegde-atri/OperationsManagement">Operations Management</a> - A one stop solution to plan and track progress of variable things. You can customize and create templates for issue tracking, and requests between different teams. For a more detailed explanation check out this <a href="https://hegdeatri.com/projects/operations-management/">page</a>.</li>
 
  <li><a href="https://github.com/hegde-atri/FileOrganizer">File Organizer</a> - This is a C# application using Avalonia UI. This application can be used to sort files in a given directory according to their file extension.</li>
 
@@ -107,7 +109,9 @@ README page generated using <a href="https://github.com/jstrieb/github-stats">gi
  
  <li><a href="https://github.com/hegde-atri/JavaPractice">Java Practice</a> - This is a repository with solutions to leetcodes, edabit and other problems, coded in java.</li>
 
- <li><a href="https://github.com/hegde-atri/rust_practice">Rust Practice</a> - This is a repository just like Java Practice but using rust.
+ <li><a href="https://github.com/hegde-atri/rust_practice">Rust Practice</a> - This is a repository just like Java Practice but using rust.</li>
+ 
+ <li><a href="https://github.com/hegde-atri/hegde-arch">hegde-arch</a> - An arch linux post installtion script to be cool and do less work. Check out more details <a href="https://hegdeatri.com/projects/hegde-arch">here</a>.</li>
  
  <li><a href="https://github.com/hegde-atri/hegdeatri-dot-com">hegdeatri-dot-com</a> - Repository that houses the code behind <a href="https://hegdeatri.com">https://hegdeatri.com</a></li>
   
