@@ -101,7 +101,7 @@ README page generated using <a href="https://github.com/jstrieb/github-stats">gi
 
  <li><a href="https://github.com/hegde-atri/BankingApplication-be">Banking Application be</a> - This is the backend project that has the API project using ASP.NET and also Database management using EF Core. This project shows clean code and also modular design for easy modifications if needed.</li>
  
- <li><a href="https://github.com/hegde-atri/OperationsManagement">Operations Management</a> - A one stop solution to plan and track progress of variable things. You can customize and create templates for issue tracking, and requests between different teams. For a more detailed explanation check out this <a href="https://hegdeatri.com/projects/operations-management/">page</a>.</li>
+ <li><a href="https://github.com/hegde-atri/CoffeeBrowser">Coffee Browser</a> - An application written while learning the Uno Platform. Used it to learn XAML and C# stack.</li>
 
  <li><a href="https://github.com/hegde-atri/FileOrganizer">File Organizer</a> - This is a C# application using Avalonia UI. This application can be used to sort files in a given directory according to their file extension.</li>
 
@@ -113,7 +113,9 @@ README page generated using <a href="https://github.com/jstrieb/github-stats">gi
  
  <li><a href="https://github.com/hegde-atri/hegde-arch">hegde-arch</a> - An arch linux post installtion script to be cool and do less work. Check out more details <a href="https://hegdeatri.com/projects/hegde-arch">here</a>.</li>
  
- <li><a href="https://github.com/hegde-atri/hegdeatri-dot-com">hegdeatri-dot-com</a> - Repository that houses the code behind <a href="https://hegdeatri.com">https://hegdeatri.com</a></li>
+ <li><a href="https://github.com/hegde-atri/hegdeatri-dot-com">hegdeatri-dot-com</a> - Repository that houses the code behind <a href="https://hegdeatri.com">https://hegdeatri.com</a>. Build using a static site generator <a href="https://getzola.org">zola</a>.</li>
+ 
+  <li><a href="https://github.com/hegde-atri/hegdeatri-dot-com">hegdeatri-dot-com</a> - Complete re-write of my website with a new design and new backend now using Next.js, you can check it out here - <a href="https://new.hegdeatri.com">https://new.hegdeatri.com</a></li>
   
   <li><a href="https://github.com/hegde-atri/pythonProjects">Python projects</a> - This repository contains many small programs that I used to understand concepts in Computer Science.</li>
   
