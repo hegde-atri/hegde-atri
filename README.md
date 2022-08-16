@@ -106,6 +106,7 @@ README page generated using <a href="https://github.com/jstrieb/github-stats">gi
  <li><a href="https://github.com/hegde-atri/FileOrganizer">File Organizer</a> - This is a C# application using Avalonia UI. This application can be used to sort files in a given directory according to their file extension.</li>
 
 <li><a href="https://github.com/hegde-atri/meetingBooking">Meeting Booking</a> - JavaFx application that allows for meeting booking, adding refreshments, and automatically scheduling cleaners.</li>
+<li><a href="https://github.com/hegde-atri/arch-wiki">Arch-wiki</a> - A wiki with a lot of things I learned by trial and error whilst using arch linux. Aimed to help beginners to Arch linux. You can visit it <a href="https://arch-wiki.hegdeatri.com">here</a>.</li>
  
  <li><a href="https://github.com/hegde-atri/JavaPractice">Java Practice</a> - This is a repository with solutions to leetcodes, edabit and other problems, coded in java.</li>
 
@@ -133,7 +134,7 @@ README page generated using <a href="https://github.com/jstrieb/github-stats">gi
 
   <li><a href="https://github.com/hegde-atri/SamuraiApp">Samurai App</a> - Built while learning EF Core.</li>
   <!-- <li><a href="https://github.com/hegde-atri/my-rust-bible">Rust bible</a></li> -->
-  <li><a href="https://github.com/hegde-atri/archlinux-help-sheet">Archlinux Help Sheet</a> - A wiki with a lot of things I learned by trial and error whilst using arch linux. Aimed to help beginners to Arch linux.</li>
+  
 
 
  <li><a href="https://github.com/hegde-atri/arch-install">Arch install</a> - This is a script that allows me to get my arch configuration installed on any target EFI system. It is not beginner friendly and not recommended unless you know what you are doing!</li>
