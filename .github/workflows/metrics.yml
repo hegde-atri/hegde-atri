@@ -40,8 +40,8 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.licenses.ratio.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          filename: licenses.svg
+          token: ${{ secrets.METRICS_KEY }}
           base: ""
           template: repository
           repo: metrics
