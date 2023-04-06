@@ -26,7 +26,7 @@ jobs:
           filename: general.svg
           token: ${{ secrets.METRICS_KEY }}
           base: header
-          base-indepth: yes
+          base_indepth: yes
           config_order: base.header, isocalendar, notable, discussions, topics
           plugin_isocalendar: yes
           plugin_languages: yes
