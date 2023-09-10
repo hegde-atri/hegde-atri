@@ -1,3 +1,5 @@
+- Currently working on a dashboard for the minimalists.
+
 <div style="display: flex;">
   <div align="left">
     <img width="390" src="./general.svg" />
