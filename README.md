@@ -1,4 +1,4 @@
-- Currently working on a dashboard for the minimalists.
+- 🌱 Currently working on a dashboard for the minimalists.
 
 <div style="display: flex;">
   <div align="left">
