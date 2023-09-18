@@ -1,8 +1,5 @@
 - 🌱 Currently working on a dashboard for the minimalists.
-
-Some of my work
-- https://motorgrowth.com
-- https://agmagency.org
+- Building a [rusty operating system](https://github.com/hegde-atri/rust-os)
 
 <div style="display: flex;">
   <div align="left">
@@ -15,6 +12,10 @@ Some of my work
   </div>
 </div>
 
+
+#### Some of my work
+- https://motorgrowth.com
+- https://agmagency.org
 
 
 
