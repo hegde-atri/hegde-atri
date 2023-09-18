@@ -1,5 +1,9 @@
 - 🌱 Currently working on a dashboard for the minimalists.
 
+Some of my work
+- https://motorgrowth.com
+- https://agmagency.org
+
 <div style="display: flex;">
   <div align="left">
     <img width="390" src="./general.svg" />
