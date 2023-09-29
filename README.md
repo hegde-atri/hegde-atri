@@ -1,5 +1,6 @@
-- 🌱 Currently working on a dashboard for the minimalists.
-- Building a [rusty operating system](https://github.com/hegde-atri/rust-os)
+GitHub is great, but I tend to move away from proprietary platforms when I can.
+
+Check out my [Codeberg profile](https://codeberg.org/hegde-atri) for some of my newer projects 😉
 
 <div style="display: flex;">
   <div align="left">
@@ -11,13 +12,6 @@
     <img width="390" src="./leetcode.svg" />
   </div>
 </div>
-
-
-#### Some of my work
-- https://motorgrowth.com
-- https://agmagency.org
-
-
 
 <!-- ![Metrics](./github-metrics.svg) -->
 
