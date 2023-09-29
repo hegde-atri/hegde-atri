@@ -1,6 +1,6 @@
 GitHub is great, but I tend to move away from proprietary platforms when I can.
 
-Check out my [Codeberg profile](https://codeberg.org/hegde-atri) for some of my newer projects 😉
+Check out my [Codeberg profile](https://codeberg.org/hegde-atri?tab=activity) for some of my newer projects 😉
 
 <div style="display: flex;">
   <div align="left">
