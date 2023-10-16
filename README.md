@@ -4,12 +4,12 @@ Check out my [Codeberg profile](https://codeberg.org/hegde-atri?tab=activity) fo
 
 <div style="display: flex;">
   <div align="left">
-    <img width="390" src="./general.svg" />
+<!--     <img width="390" src="./general.svg" /> -->
     <img width="390" src="./achievements.svg" />
   </div>
   <div>
     <!-- <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hegde-atri&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> -->
-    <img width="390" src="./leetcode.svg" />
+<!--     <img width="390" src="./leetcode.svg" /> -->
   </div>
 </div>
 
