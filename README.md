@@ -2,6 +2,9 @@ GitHub is great, but I tend to move away from proprietary platforms when I can.
 
 Check out my [GitLab profile](https://gitlab.com/hegde-atri) for some of my newer projects 😉
 
+Currently working on 
+- [arustbar](https://gitlab.com/hegde-atri/arustbar)
+
 <div style="display: flex;">
   <div align="left">
 <!--     <img width="390" src="./general.svg" /> -->
