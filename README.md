@@ -4,6 +4,8 @@ Check out my [GitLab profile](https://gitlab.com/hegde-atri) for some of my newe
 
 Currently working on 
 - [arustbar](https://gitlab.com/hegde-atri/arustbar)
+- [hypr-helper](https://gitlab.com/hegde-atri/hypr-helper)
+- A revamped personal website.
 
 <div style="display: flex;">
   <div align="left">
