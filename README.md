@@ -9,6 +9,7 @@ Some of my cool projects
 - Banking Application - [frontend](https://github.com/hegde-atri/BankingApplication-fe) and [backend](https://github.com/hegde-atri/BankingApplication-be)
 
 Currently working on:
+- [Movie Critic Website](https://github.com/hegde-atri/movie-rating)
 - [repoman](https://github.com/hegde-atri/repoman)
 - [org-mode-latex-templates](https://github.com/hegde-atri/org-mode-latex-templates)
 - [doom-emacs-config](https://github.com/hegde-atri/doom-emacs-config)
