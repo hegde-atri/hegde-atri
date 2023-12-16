@@ -5,7 +5,7 @@ Check out my [GitLab profile](https://gitlab.com/hegde-atri) for some of my newe
 Some of my cool projects
 - [life-os](https://github.com/hegde-atri/life-os)
 - Website for [Remodellers Reach](https://rra.hegdeatri.com)
-- [nextjs-starter-activity](https://github.com/hegde-atri/nextjs-starter-activity) and [nextjs-todo-app](https://github.com/hegde-atri/nextjs-todo-app)
+- [nextjs-starter-activity](https://github.com/hegde-atri/nextjs-starter-activity) and [nextjs-todo-app](https://github.com/hegde-atri/nextjs-todo-app): A guide to getting started with enxtjs and then the T3 stack.
 - [hypr-helper](https://gitlab.com/hegde-atri/hypr-helper)
 - Banking Application - [frontend](https://github.com/hegde-atri/BankingApplication-fe) and [backend](https://github.com/hegde-atri/BankingApplication-be)
 
