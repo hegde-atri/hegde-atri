@@ -1,6 +1,5 @@
-GitHub is great, but I tend to move away from proprietary platforms when I can.
-
-Check out my [GitLab profile](https://gitlab.com/hegde-atri) for some of my newer projects 😉
+I also have a few projects on my [GitLab profile](https://gitlab.com/hegde-atri) 😉
+I try to stay up to date on git platforms to learn how they differ and their unique use cases.
 
 Some of my cool projects
 - [life-os](https://github.com/hegde-atri/life-os): Gamified task management application enhanced with AI.
