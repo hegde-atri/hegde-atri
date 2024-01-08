@@ -9,14 +9,13 @@ Some of my cool projects
 - Banking Application - [frontend](https://github.com/hegde-atri/BankingApplication-fe) and [backend](https://github.com/hegde-atri/BankingApplication-be)
 
 Currently working on:
-- [Starfield problem](https://github.com/hegde-atri/starfield-problem)
-- [Movie Critic Website](https://github.com/hegde-atri/movie-rating)
 - [repoman](https://github.com/hegde-atri/repoman)
 - [org-mode-latex-templates](https://github.com/hegde-atri/org-mode-latex-templates)
 - [doom-emacs-config](https://github.com/hegde-atri/doom-emacs-config)
 
 Plan to work on:
 - [arustbar](https://gitlab.com/hegde-atri/arustbar)
+- [Movie Critic Website](https://github.com/hegde-atri/movie-rating)
 - [dotfiles-manager](https://github.com/hegde-atri/dotfiles-manager)
 - Revamping my current [personal site](https://hegdeatri.com)
 
