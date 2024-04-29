@@ -1,4 +1,6 @@
-Uptime of my websites/services: [uptime.hegdeatri.com](https://uptime.hegdeatri.com)
+📊 Uptime of my websites/services: [uptime.hegdeatri.com](https://uptime.hegdeatri.com)
+
+💼 Visit my portfolio at: [hegdeatri.com/about](https://hegdeatri.com/about)
 
 I also have a few projects on my [GitLab profile](https://gitlab.com/hegde-atri)
 
