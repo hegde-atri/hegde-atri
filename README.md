@@ -4,8 +4,8 @@ I try to stay up to date on git platforms to learn how they differ and their uni
 Some of my cool projects
 - [life-os](https://github.com/hegde-atri/life-os): Gamified task management application enhanced with AI.
 - Website for [HADM](https://hadm.co.uk)
-- [astro-tutorial](https://github.com/hegde-atri/astro-portfolio-tutorial) which has worksheets helping you get started with Astro, specifically using it with React, TailwindCSS and Framer-motion.
 - [nextjs-starter-activity](https://github.com/hegde-atri/nextjs-starter-activity) and [nextjs-todo-app](https://github.com/hegde-atri/nextjs-todo-app): A guide to getting started with nextjs and then the T3 stack.
+- [astro-tutorial](https://github.com/hegde-atri/astro-portfolio-tutorial) which has worksheets helping you get started with Astro, specifically using it with React, TailwindCSS and Framer-motion.
 - [hypr-helper](https://gitlab.com/hegde-atri/hypr-helper): A CLI tool simplifying events from hyprland UNIX socket.
 - Banking Application - [frontend](https://github.com/hegde-atri/BankingApplication-fe) and [backend](https://github.com/hegde-atri/BankingApplication-be)
 
