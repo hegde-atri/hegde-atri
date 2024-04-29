@@ -1,5 +1,6 @@
-I also have a few projects on my [GitLab profile](https://gitlab.com/hegde-atri) 😉
-I try to stay up to date on git platforms to learn how they differ and their unique use cases.
+Uptime of my websites/services: [uptime.hegdeatri.com](https://uptime.hegdeatri.com)
+
+I also have a few projects on my [GitLab profile](https://gitlab.com/hegde-atri)
 
 Some of my cool projects
 - [life-os](https://github.com/hegde-atri/life-os): Gamified task management application enhanced with AI.
