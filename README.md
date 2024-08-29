@@ -1,21 +1,20 @@
-📊 Uptime of my websites/services: [uptime.hegdeatri.com](https://uptime.hegdeatri.com)
+📊 Uptime of my websites/services: [uptime.hegdeatri.com](https://uptime.hegdeatri.com).
 
-💼 Visit my portfolio at: [hegdeatri.com/about](https://hegdeatri.com/about)
+💼 Visit my portfolio at: [hegdeatri.com/about](https://hegdeatri.com/about).
 
-I also have a few projects on my [GitLab profile](https://gitlab.com/hegde-atri)
+I also have a few projects on my [GitLab profile](https://gitlab.com/hegde-atri).
 
 Some of my cool projects
 - [life-os](https://github.com/hegde-atri/life-os): Gamified task management application enhanced with AI.
-- Website for [HADM](https://hadm.co.uk)
+- Website for [HADM](https://hadm.co.uk).
 - [nextjs-starter-activity](https://github.com/hegde-atri/nextjs-starter-activity) and [nextjs-todo-app](https://github.com/hegde-atri/nextjs-todo-app): A guide to getting started with nextjs and then the T3 stack.
-- [astro-tutorial](https://github.com/hegde-atri/astro-portfolio-tutorial) which has worksheets helping you get started with Astro, specifically using it with React, TailwindCSS and Framer-motion.
 - [hypr-helper](https://gitlab.com/hegde-atri/hypr-helper): A CLI tool simplifying events from hyprland UNIX socket.
 - Banking Application - [frontend](https://github.com/hegde-atri/BankingApplication-fe) and [backend](https://github.com/hegde-atri/BankingApplication-be)
 
 Currently working on:
-- [repoman](https://github.com/hegde-atri/repoman)
+- [nix-ros2](https://github.com/hegde-atri/nix-ros2)
+- [nixos-config](https://github.com/hegde-atri/nixos-config)
 - [org-mode-latex-templates](https://github.com/hegde-atri/org-mode-latex-templates)
-- [doom-emacs-config](https://github.com/hegde-atri/doom-emacs-config)
 
 Plan to work on:
 - [arustbar](https://gitlab.com/hegde-atri/arustbar)
