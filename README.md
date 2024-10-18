@@ -2,6 +2,8 @@
 
 I also have a few projects on my [GitLab profile](https://gitlab.com/hegde-atri).
 
+Founder @ [LiteSite Limited](https://litesite.uk).
+
 Some of my cool projects
 - [life-os](https://github.com/hegde-atri/life-os): Gamified task management application enhanced with AI.
 - Website for [HADM](https://hadm.co.uk).
