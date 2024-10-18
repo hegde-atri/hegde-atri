@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_KEY }}
           base: ""
           plugin_achievements: yes
-          plugin_achievements_display: compact
+          plugin_achievements_display: detailed
           plugin_fortune: yes
 
       - name: 🦑 General
