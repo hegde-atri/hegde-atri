@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # 🌏 Think about the planet! No need to update stats too frequently
-  schedule: [{ cron: "0 0 * * *" }]
+  schedule: [{ cron: "0 0 * * 0" }]
   # 💡 The following line lets you run workflow manually from the action tab!
   workflow_dispatch:
 jobs:
@@ -36,15 +36,15 @@ jobs:
           plugin_languages_indepth: no
           # plugin_languages_limit: 15
           
-      - name: LeetCode
-        uses: lowlighter/metrics@latest
-        with:
-          filename: leetcode.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_leetcode_user: hegde_atri
-          plugin_leetcode: yes
-          plugin_leetcode_sections: solved, skills, recent
+      # - name: LeetCode
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: leetcode.svg
+      #     token: NOT_NEEDED
+      #     base: ""
+      #     plugin_leetcode_user: hegde_atri
+      #     plugin_leetcode: yes
+      #     plugin_leetcode_sections: solved, skills, recent
 
 
       - name: Licenses
