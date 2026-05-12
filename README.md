@@ -1,6 +1,6 @@
 Founder @ [LiteSite Limited](https://litesite.uk).
 
-Uptime: https://uptime.litesite.uk
+My newer projects are on https://git.hegdeatri.com
 
 Some of my cool projects
 - [life-os](https://github.com/hegde-atri/life-os): Gamified task management application enhanced with AI.
